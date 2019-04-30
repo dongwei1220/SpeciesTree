@@ -148,7 +148,7 @@ $ ~/biosoft/SpeciesTree/SpeciesTree.sh -p Example/pep/ -n Example/cds/ -S diamon
 
 ## Homepage
 
-<http://eplant.org/SpeciesTree.html>
+<http://www.eplant.org/speciestree.html>
 
 ## Contact
 
