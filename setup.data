@@ -1,0 +1,12 @@
+OrthoFinder orthofinder https://github.com/davidemms/OrthoFinder/releases/
+PYTHON python http://www.python.org/
+BLASTP blastp ftp://ftp.ncbi.nlm.nih.gov/blast/executables/LATEST/
+DIAMOND diamond https://github.com/bbuchfink/diamond/
+MCL mcl https://www.micans.org/mcl/
+MAFFT mafft https://mafft.cbrc.jp/alignment/software/
+MUSCLE muscle http://www.drive5.com/muscle/
+TRIMAL trimal http://trimal.cgenomics.org/
+PERL perl http://www.perl.org/
+JAVA java https://www.oracle.com/technetwork/java/javase/downloads/index.html/
+RAxML raxmlHPC-PTHREADS https://cme.h-its.org/exelixis/web/software/raxml/index.html/
+R R http://www.r-project.org/index.html/
